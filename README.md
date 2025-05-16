@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onizexx
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning HTML and css and also a biochemistry student 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me onizeaisha@gmail.com
 - 😄 Pronouns: she
